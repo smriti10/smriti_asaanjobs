@@ -246,7 +246,8 @@ Hint: the answer is less than 10.
 
 solutin:
 Area 51 is located in the southern portion of Nevada in the western United States, 83 miles north-northwest of Las Vegas. 
-no methodology can be developed since it takes atleast one hour for the organism consuming the drug to die and the company has one hour to test.
+no methodology can be developed since it takes atleast one hour for the organism consuming the drug to die and the company has one hour
+to test.
 or we can say within one hour.
 
 
@@ -428,7 +429,7 @@ e. 4
 a. add(Object x);
 b. remove(Object x);
 c. insert(int i, Object x);
-d. contains(Object x);
+**d. contains(Object x);
 e. set(int i, Object x);
 	
   
@@ -452,14 +453,14 @@ a. The statement has a syntax error and won't compile
 b. 6
 c. 15
 d. 123
-e. ClassCastException
+**e. ClassCastException
 
 
 19) What is the output of the following code?
 String s = "ONION";
 System.out.println(s.substring(1, 5).substring(1, 4).substring(0, 3));
 
-a. I
+**a. I
 b. IO
 c. ION
 d. ONI
@@ -527,7 +528,7 @@ Which of the following statement is true?
 
 a. Code compiles fine , but doesn't give output
 b. Code complains of illegal override at line 13
-c. Prints "Fest Class : tests"
+**c. Prints "Fest Class : tests"
 d. Prints "Test Class : tests"
 e. None of the above
 
@@ -537,7 +538,7 @@ e. None of the above
 a. Vector
 b. SortedSet
 c. HashTable
-d. HashMap
+**d. HashMap
 e. None of the above
 
 
@@ -573,7 +574,7 @@ e. drop
 
 a. SELECT ename, deptno FROM emp WHERE comm IS NULL
 b. SELECT ename, deptno FROM emp WHERE comm NULL
-c. SELECT ename, deptno FROM emp WHERE comm == NULL
+**c. SELECT ename, deptno FROM emp WHERE comm == NULL
 d. All the above
 e. None of the above
 
@@ -582,7 +583,7 @@ e. None of the above
 
 a. Multithreading
 b. Reflection
-c. Operator Overloading
+**c. Operator Overloading
 d. Garbage Collection
 e. None of the above
 
@@ -593,6 +594,6 @@ a. Set
 b. List
 c. Array
 d. Collection
-e. None of the above
+**e. None of the above
 
 
