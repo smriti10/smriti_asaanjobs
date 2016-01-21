@@ -19,6 +19,15 @@ got repeated twice?
 
 solution:
 
+traverse the list for i= 0 to n-1 elements
+{
+  check for sign of Array ;
+  if positive then
+     make it negative by   A[abs(A[i])]=-A[abs(A[i])];
+  else  
+     this   element (ith element of list) is a repetition
+}
+
 #include <stdio.h>
 #include <stdlib.h>
  
