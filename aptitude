@@ -246,6 +246,8 @@ Hint: the answer is less than 10.
 
 solutin:
 Area 51 is located in the southern portion of Nevada in the western United States, 83 miles north-northwest of Las Vegas. 
+no methodology can be developed since it takes atleast one hour for the organism consuming the drug to die and the company has one hour to test.
+or we can say within one hour.
 
 
 
@@ -487,8 +489,8 @@ e. 7
 
 21) How to send data in GET request method?
 
-a. We can't
-**b. Through URL
+**a. We can't
+b. Through URL
 c. Through payload
 d. b & c
 e. None of these
@@ -496,8 +498,8 @@ e. None of these
   
 22) The use of the break statement in a switch statement is
 
-a. optional
-**b. compulsory
+**a. optional
+b. compulsory
 c. not allowed. It gives an error message
 d. to check an error
 e. None of the above
